@@ -1,4 +1,4 @@
-这里记录每周的所见所闻，周日发布。点击阅读原文可以直接访问文章链接。
+这里记录每周的所见所闻，周日发布。
 
 # 编程
 1. [Python中获取文件路径](https://blog.csdn.net/YPFeime/article/details/89072336)
