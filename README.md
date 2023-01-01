@@ -3,6 +3,7 @@
 
 ## 2022
 **十一月**
+- [编程随想曲周刊（第9期）](docs/weekly-9.md)
 - [编程随想曲周刊（第8期）](docs/weekly-8.md)
 - [编程随想曲周刊（第7期）](docs/weekly-7.md)
 - [编程随想曲周刊（第6期）](docs/weekly-6.md)
