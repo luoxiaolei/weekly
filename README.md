@@ -2,7 +2,11 @@
 记录每周见闻，周日发布。（灵感来自[阮一峰科技爱好者周刊](https://github.com/ruanyf/weekly)）
 
 ## 2023
+**五月**
+- [编程随想曲周刊（第27期）](docs/weekly-27.md)
+
 **四月**
+- [编程随想曲周刊（第26期）](docs/weekly-26.md)
 - [编程随想曲周刊（第25期）](docs/weekly-25.md)
 - [编程随想曲周刊（第24期）](docs/weekly-24.md)
 - [编程随想曲周刊（第23期）](docs/weekly-23.md)
